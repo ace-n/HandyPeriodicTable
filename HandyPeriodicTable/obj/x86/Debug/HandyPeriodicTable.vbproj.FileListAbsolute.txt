@@ -1,0 +1,11 @@
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\bin\Debug\HandyPeriodicTable.exe
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\bin\Debug\HandyPeriodicTable.pdb
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\bin\Debug\HandyPeriodicTable.xml
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\HandyPeriodicTable.Form1.resources
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\HandyPeriodicTable.Resources.resources
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\HandyPeriodicTable.exe
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\HandyPeriodicTable.xml
+C:\Users\Ace\My Code\VB.NET\School Automation\HandyPeriodicTable\HandyPeriodicTable\obj\x86\Debug\HandyPeriodicTable.pdb
